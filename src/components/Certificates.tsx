@@ -2,9 +2,9 @@ import { Dialog, DialogContent, DialogHeader, DialogTitle, DialogTrigger } from 
 import { Button } from "@/components/ui/button";
 import { Card } from "@/components/ui/card";
 import { Award, Download } from "lucide-react";
-import iso9001 from "@/assets/certificates/iso-9001-2015.png";
-import iso45001 from "@/assets/certificates/iso-45001-2018.png";
-import iso14001 from "@/assets/certificates/iso-14001-2015.png";
+import iso9001 from "@/assets/certificates/ISO-9001-2015.png";
+import iso45001 from "@/assets/certificates/ISO-45001-2018.png";
+import iso14001 from "@/assets/certificates/ISO-14001-2015.png";
 
 const certificates = [
   {
